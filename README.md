@@ -93,16 +93,6 @@ The dataset includes:
 ## 💼 About the Internship
 
 This project was completed as part of the [Quantium Virtual Internship](https://www.theforage.com/virtual-internships/prototype/quantium/data-analytics) hosted on Forage.  
-It simulates real-world analytics tasks performed at Quantium using real consumer transaction data.
-
----
-
-## 🤝 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📬 your.email@example.com
-- 🌐 [Portfolio](https://yourportfolio.com)
-
----
+It simulates real-world analytics tasks performed at Quantium using real consumertransactions
 
 ⭐ *If you like this project, please give it a star and follow me for more analytics content!*
